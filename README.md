@@ -160,8 +160,10 @@ Devtools (инструменты разработчика) - программы,
 3.	Сборщики проектов – Grunt [тык](https://habr.com/ru/post/243335/)
 
 5.	Сборщики проектов – webpack [вот](https://habr.com/ru/post/514838/) и [вот еще](https://habr.com/ru/post/309306/)
+6.	Введение Vue [тут](https://ru.vuejs.org/v2/guide/index.html)
 
-7.	Введение vue [тут](https://cli.vuejs.org/ru/guide/)
+7.	Введение Vue-cli [тут](https://cli.vuejs.org/ru/guide/)
+8.	Введение Vuex [тут](https://vuex.vuejs.org/ru/)
 
 9.	Устанавливаем vue-cli полностью проходим по [инструкции](https://cli.vuejs.org/ru/guide/installation.html)
 
@@ -182,6 +184,8 @@ Devtools (инструменты разработчика) - программы,
 [IT-KAMASUTRA](https://www.youtube.com/c/ITKAMASUTRA/playlists)
 
 [Ulbi TV](https://www.youtube.com/c/UlbiTV/playlists)
+
+[Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov) имхо, очень много полезной инфы (с) WiiJoy
 
 ### Разное
 Игра для изучения библиотеки [RxJS](https://www.rxjs-fruits.com/subscribe)
