@@ -155,7 +155,23 @@ Devtools (инструменты разработчика) - программы,
 [Официальная документация](https://ru.reactjs.org/docs/getting-started.html) по реакту. [Практика](https://ru.reactjs.org/tutorial/tutorial.html) и [теория](https://ru.reactjs.org/docs/hello-world.html)
 
 ### Vue
-TBA
+1.	Менеджер пакетов npm  [тык](https://www.8host.com/blog/upravlenie-modulyami-node-js-s-pomoshhyu-npm-i-package-json/)
+
+3.	Сборщики проектов – Grunt [тык](https://habr.com/ru/post/243335/)
+
+5.	Сборщики проектов – webpack [вот](https://habr.com/ru/post/514838/) и [вот еще](https://habr.com/ru/post/309306/)
+
+7.	Введение vue [тут](https://cli.vuejs.org/ru/guide/)
+
+9.	Устанавливаем vue-cli полностью проходим по [инструкции](https://cli.vuejs.org/ru/guide/installation.html)
+
+11.	Немного вкратце о [структуре](https://forproger.ru/article/osnovy-vuejs-sozdanie-i-nastrojka-proekta) 
+
+13.	Кому зайдет [видеоформат](https://monsterlessons.com/project/lessons/bystryj-start-s-vuejs)
+
+15.	[Документация1](https://ru.vuejs.org/v2/guide/installation.html#%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-%D0%B8-Vue) и [документация2](https://cli.vuejs.org/ru/guide/build-targets.html)
+
+17.	Подключаем фреймворки для удобства и скорости [Vuetify](https://vuetifyjs.com/en/)
 
 [Оглавление](#роадмап-начинающего-фронтенд-разработчика)
 
