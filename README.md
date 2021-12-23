@@ -21,7 +21,7 @@
 
 [Книги](#книги)
 
-[Книги](#курсы)
+[Курсы](#курсы)
 
 [Учимся правильно гуглить](#учимся-правильно-гуглить)
 
@@ -187,10 +187,14 @@ Devtools (инструменты разработчика) - программы,
 
 [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov) имхо, очень много полезной инфы (с) WiiJoy
 
+[JavaScript.Ninja](https://www.youtube.com/c/JavascriptNinja)
+
 ### Разное
 Игра для изучения библиотеки [RxJS](https://www.rxjs-fruits.com/subscribe)
 
 [Codewars](https://www.codewars.com/)
+
+[Туториалы w3schools](https://www.w3schools.com/)
 
 [Оглавление](#роадмап-начинающего-фронтенд-разработчика)
 
